@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.page {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    width: 90%;
+}
+
+/* navbar */
+.navbar {
+    background-color: whitesmoke;
+    height: 61px;
+}
+
+.search {
+    width: 300px;
+}
+
+.btn {
+    padding: 1px 6px;
+}
+
+/* footer */
+.special {
+    font-size: medium;
+    padding-top: 10px;
+    height: 69px;
+    background-color: #7EE5DA;
+}
+
+.help {
+    font-size: small;
+    padding-top: 10px;
+    height: 69px;
+    background-color: #70CCC2;
+}
+
+.mail {
+    font-size: small;
+    padding-top: 4px;
+    height: 75px;
+    background-color: #62B3AA;
+}
+
+.email {
+    padding: 1px 2px;
+    width: 170px;
+}
